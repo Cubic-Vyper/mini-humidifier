@@ -12,6 +12,9 @@ I made this because I saw something similar on social media and decided it would
 [https://stasis.hackclub.com/dashboard/projects/cmmp7hh6c00c501mqybabec3o](https://stasis.hackclub.com/dashboard/discover/cmmp7hh6c00c501mqybabec3o)
 
 
+There are two case variattions, a star, and a water-drop, but they both work the same.
+-----------------------------------------------------------
+
 bottem of the case:
 
 
