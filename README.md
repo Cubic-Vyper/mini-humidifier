@@ -5,7 +5,7 @@ I made this because I saw something similar on social media and decided it would
 
 | Name | Purpose | Cost | Qty | Total | Link | Distributor |
 |------|---------|------|-----|-------|------|-------------|
-| Ultrasonic Humidifier Module | This will turn the water to mist | $0.89 | 1 | $0.89 | [Link to Listing](https://www.alibaba.com/product-detail/USB-Mini-Humidifier-DIY-Kits-Mist_1601200214966.html?spm=a2700.prosearch.normal_offer.d_image.110467afwCXwz2&priceId=ee71cc13ecaf43dbaca8f0b3b9add235) | Alibaba |
+| Ultrasonic Humidifier Module | This will turn the water to mist | $1.86 | 1 | $1.86 | [Link to Listing](https://www.alibaba.com/product-detail/USB-Mini-Humidifier-DIY-Kits-Mist_1601200214966.html) | Aliexpress |
 | 3D Printed case | this will hold everything | $0.00 | 1 | $0.00 | there isn't a link | I will print this |
 
 
