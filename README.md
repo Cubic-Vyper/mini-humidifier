@@ -18,12 +18,15 @@ There are two case variattions, a star, and a water-drop, but they both work the
 bottem of the case:
 
 
-<img width="665" height="589" alt="image" src="https://github.com/user-attachments/assets/0a6903a5-4539-4bad-b5d4-9885b62d8efc" />
+<img width="837" height="597" alt="image" src="https://github.com/user-attachments/assets/27939481-39e0-42bf-abad-636f017120b3" />
 
 
 top of the case
 
-<img width="564" height="501" alt="image" src="https://github.com/user-attachments/assets/162d85d5-690a-4433-8e5c-6dffa6798e7e" />
+
+
+<img width="714" height="584" alt="image" src="https://github.com/user-attachments/assets/56032419-e85c-4632-a601-2c3de1d06a96" />
+
 
 
 assembly instructions
